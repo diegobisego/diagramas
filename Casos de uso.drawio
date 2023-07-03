@@ -1,0 +1,252 @@
+<mxfile host="app.diagrams.net" modified="2023-06-29T03:09:25.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GOQ5KpeH8BG1YwdhzBO4" version="21.5.2" type="device">
+  <diagram name="Página-1" id="Brke_88Mpg0eyf2dQEno">
+    <mxGraphModel dx="794" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-140" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="1810" width="310" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-13" value="Nombre / Identificacion" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="40" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-15" value="&lt;b&gt;Descripcion&lt;/b&gt;:&lt;br&gt;El caso de uso permite registrar proyectos de las constructora" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="140" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-16" value="&lt;b&gt;Precondiciones&lt;br&gt;&lt;/b&gt;-" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="220" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-17" value="CU 01 - Registrar Proyectos" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="40" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-21" value="Autor" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="60" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-22" value="Diego Bisego" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="60" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-23" value="Fecha" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="80" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-24" value="27/06/2023" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="80" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-25" value="Actores" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="200" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-26" value="Usuarios Administrativos Autenticados" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="200" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-29" value="&lt;b&gt;Curso Tipico de Eventos&lt;/b&gt;&lt;br&gt;1 - Usuario situado en el panel de carga de proyectos, pulsa el boton de &quot;crear nuevo proyecto&quot;&lt;br&gt;2 - Se muestran los campos para crear un nuevo proyecto junto con un boton de &quot;Cargar&quot; para&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;cargar el proyecto y &quot;Cancelar&quot; para volver atras sin cargar el mismo.&lt;br&gt;3 - El usuario ingresa los datos solicitados del nuevo proyecto en los campos&lt;br&gt;4 - El sistema verifica que los campos esten completos y en el formato correcto.&lt;br&gt;5 - Usuario preisona boton &quot;Cargar&quot; para que se genere el nuevo proyecto&lt;br&gt;6 - Finaliza el caso de uso" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="280" width="530" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-55" value="Estereotipo" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="100" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-56" value="Processing" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="100" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-58" value="Frecuencia de uso" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="120" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-59" value="Alto" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="120" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-60" value="&lt;b&gt;Curso Alternativo de Eventos&lt;br&gt;&lt;/b&gt;1 - Paso 4: El sistema identifica campos invalidos, da aviso al usuario para su modificacion/insercion. Vuelve al paso 3.&lt;br&gt;2 - Paso 5: Si el usuario no corrigio lo indicado en el paso 4, se mostrara un mensaje indicando que debe modificar los datos faltantes/erroneos. Vuelve al paso 3" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="410" width="530" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-62" value="&lt;b&gt;Postcondiciones&lt;/b&gt;&lt;br&gt;1 - Se crea un nuevo proyecto en el sistema.&lt;br&gt;2 - El sistema envia un correo al usuario Cliente con un link de seguimiento.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="490" width="530" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-64" value="Nombre / Identificacion" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="610" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-65" value="&lt;b&gt;Descripcion&lt;/b&gt;:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;El caso de uso permite registrar tareas a los proyectos" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="710" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-66" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Precondiciones&lt;/b&gt;&lt;/div&gt;1 - Debe haber un proyecto creado previamente" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="790" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-67" value="CU 02 - Registrar Tareas" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="610" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-68" value="Autor" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="630" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-69" value="Diego Bisego" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="630" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-70" value="Fecha" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="650" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-71" value="27/06/2023" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="650" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-72" value="Actores" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="770" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-73" value="Usuarios Administrativos Autenticados" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="770" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-74" value="&lt;b&gt;Curso Tipico de Eventos&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;1 - Usuario situado en el listado de proyectos, pulsa sobre un proyecto para ingresar al mismo&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;2 - Se verifica un boton de &quot;agregar tarea&quot;, donde permite agregar una nueva tarea al proyecto&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;3 - El usuario presiona el boton para agregar una nueva. Se despliega un pop-up con campos y un &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;boton que dice &quot;crear&quot; y &quot;cancelar&quot;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;4 - El usuario llena los campos solicitados para agregar la nueva tarea&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;5 - El sistema verifica que los campos esten completos y en el formato correcto.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;6 - Usuario preisona boton &quot;Crear&quot; para que se genere el nuevo proyecto&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;7 - Finaliza el caso de uso" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="850" width="530" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-75" value="Estereotipo" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="670" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-76" value="Processing" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="670" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-77" value="Frecuencia de uso" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="690" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-78" value="Alto" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="690" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-79" value="&lt;b&gt;Curso Alternativo de Eventos&lt;br&gt;&lt;/b&gt;1 - Paso 5: El sistema identifica datos invalidos en los campos, da aviso visual al usuario para su modificacion/insersion. Vuelve al paso 4&lt;br&gt;2 - Paso 6: Si el usuario no corrigio lo indicado en el paso 5, se mostrara un mensaje indicando que debe modificar los datos faltantes/erroneos. Vuelve al paso 4" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="980" width="530" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-80" value="&lt;b&gt;Postcondiciones&lt;/b&gt;&lt;br&gt;1 - Se crea una nueva tarea dentro del proyecto, en el sistema.&amp;nbsp;&lt;br&gt;2 - El sistema envia un correo al owner de la tarea con un link a la misma." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1060" width="530" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-115" value="Nombre / Identificacion" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1190" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-116" value="&lt;b&gt;Descripcion&lt;/b&gt;:&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;El caso de uso permite ver los estados de los proyectos" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1290" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-117" value="&lt;b&gt;Precondiciones&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;1 - Debe haber un proyecto creado previamente.&lt;div style=&quot;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1370" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-118" value="CU 03 - Estados de los Proyectos" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1190" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-119" value="Autor" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1210" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-120" value="Diego Bisego" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1210" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-121" value="Fecha" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1230" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-122" value="27/06/2023" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1230" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-123" value="Actores" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1350" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-124" value="Usuarios Clientes Autenticados" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1350" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-125" value="&lt;b&gt;Curso Tipico de Eventos&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;1 - Hace click sobre un proyecto, se despliega una venta con datos del mismo.&lt;br&gt;2 - En la ventana se observan, ademas de los datos del proyecto, un boton con la leyenda &quot;Ver&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Estado&quot;.&lt;br&gt;3 - Cliente hace click sobre boton &quot;Ver Estado&quot;.&lt;br&gt;4 - Se despliega un pop-up donde muestra detalles del avance del proyecto.&lt;br&gt;5 - Cliente presiona la tecla &quot;Esc&quot; o hace click en otra parte de la pantalla fuera del pop-up para cerrar el mismo&lt;br&gt;6 - Finaliza el caso de uso&lt;br&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1430" width="530" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-126" value="Estereotipo" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1250" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-127" value="Browsing" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1250" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-128" value="Frecuencia de uso" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1270" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-129" value="Alto" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="420" y="1270" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-130" value="&lt;b&gt;Curso Alternativo de Eventos&lt;br&gt;&lt;/b&gt;-" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1640" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-131" value="&lt;b&gt;Postcondiciones&lt;/b&gt;&lt;br&gt;-." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="1680" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yNJsVg5jP0pQIHJuSM6q-132" target="yNJsVg5jP0pQIHJuSM6q-133" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-132" value="Usuario Administrativo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1840" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="yNJsVg5jP0pQIHJuSM6q-133" target="yNJsVg5jP0pQIHJuSM6q-138" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-185" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="yNJsVg5jP0pQIHJuSM6q-133" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="2090" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-133" value="Usuario Administrativo Autenticado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="1925" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-138" value="" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="470" y="1875" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-141" value="Subsistema de Proyectos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="490" y="1820" width="157.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-142" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;CU 01 - Registrar Proyectos&lt;/span&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="450" y="1925" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-155" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="yNJsVg5jP0pQIHJuSM6q-156" target="yNJsVg5jP0pQIHJuSM6q-158" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-156" value="Usuario Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="2050" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-187" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="yNJsVg5jP0pQIHJuSM6q-158" target="yNJsVg5jP0pQIHJuSM6q-167" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-158" value="Usuario Cliente Autenticado" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="2205" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-159" value="" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="470" y="2030" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-161" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;CU 02 - Registrar Tareas&lt;/span&gt;&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="460" y="2065" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-167" value="" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="473.75" y="2170" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-169" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;CU 03 - Estados de los Proyectos&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="476.88" y="2210" width="183.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-188" value="Descripcion:&lt;br&gt;Persona física de la empresa que realiza tareas de gestión de proyectos" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-460" width="530" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-189" value="Nombre" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-470" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-190" value="Administrativo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-470" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-192" value="Descripcion:&lt;br&gt;Persona física de la empresa que realiza tareas de gestión de proyectos&amp;nbsp;y esta&lt;br&gt;autenticado en el sistema." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-340" width="530" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-193" value="Nombre" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-350" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-194" value="Administrativo Autenticado" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-350" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-195" value="Descripcion:&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Persona física que ingresa como Cliente y que podrá acceder al sistema para ver el estado de los proyectos.&lt;/span&gt;&lt;br&gt;&lt;p class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-200" width="530" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-196" value="Nombre" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-230" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-197" value="Cliente" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-230" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-198" value="Descripcion:&lt;br&gt;Persona física que ingresa como Cliente y que podrá acceder al sistema para ver el estado de los proyectos y esta autenticado en el sistema." style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-70" width="530" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-199" value="Nombre" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="-80" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yNJsVg5jP0pQIHJuSM6q-200" value="Cliente Autenticado" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="-80" width="280" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
